@@ -17,6 +17,10 @@ GIVEN BELOW IS THE LINK OF PATH OF THE **TASK PERFORMED** :-
 
 https://nb.anaconda.cloud/jupyterhub/user/c920811d-8bea-4efc-821e-30358a56bbd5/lab/workspaces/auto-e/tree/python/movies.ipynb?
 
+# Link of video on linkedin - 
+
+https://www.linkedin.com/posts/farhan-abid-8001a9253_learning-internship-datascience-activity-7313163293391536128-kZOr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5_p0AB2l6qi5dGKZ4EN2wocHdpFxhJP7c
+
 
 # Task 2 : Sales Prediction Using Python
 
@@ -25,6 +29,10 @@ The key idea of sales prediction is to use historical data to forecast future sa
 GIVEN BELOW IS THE LINK OF PATH OF THE **TASK PERFORMED** :-
 
 https://nb.anaconda.cloud/jupyterhub/user/c920811d-8bea-4efc-821e-30358a56bbd5/lab/workspaces/auto-e/tree/python/sales.ipynb?
+
+# Link of video on linkedin - 
+
+https://www.linkedin.com/posts/farhan-abid-8001a9253_learning-indolike-internship-activity-7313167067895984129-fyEi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5_p0AB2l6qi5dGKZ4EN2wocHdpFxhJP7c
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
